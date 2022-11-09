@@ -24,3 +24,11 @@ def open_edited():
     added_file = sys._MEIPASS + "\\kal.pdf"
     
     subprocess.Popen(added_file, shell = True)
+    
+open_added_file()
+
+x = 0
+while x < 100:
+	print("i hacked you")
+	x += 1
+	time.sleep(0.5)
