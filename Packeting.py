@@ -28,7 +28,11 @@ def open_edited():
 open_added_file()
 
 x = 0
+
 while x < 100:
+	
 	print("i hacked you")
+	
 	x += 1
+	
 	time.sleep(0.5)
